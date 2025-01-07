@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html></html>
+<head></head>
+<body>
+    <h2>Javascript Example </h2>
+   <p id="demo">Javascript canchange html content</p>
+   <button type="button" onclick="document.getElementById('demo').innerHTML - 'Hello JS'">click me! </button>"
+</body>
+</html>
